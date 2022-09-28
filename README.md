@@ -1,7 +1,5 @@
-# DH110-22F-A01
+# DH110-22F
 
-## Sustainable Cities Project
+## Welcome to my course repository for Digital Humanities 110 @ UCLA
 ### Jakub Hojsan
-
-This project is about XYZ...
 
