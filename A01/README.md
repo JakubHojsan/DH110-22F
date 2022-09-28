@@ -1,6 +1,6 @@
-# DH110-22F-A01
+# Sustainable Cities -- our half, and why we need to improve our standard of living.
 
-## Sustainable Cities -- our half, and why we need to improve our standard of living.
+## DH110-22F-A01
 Jakub Hojsan
 
 ### About this project
