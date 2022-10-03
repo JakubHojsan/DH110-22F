@@ -12,4 +12,4 @@ Currently, sites that try to inform the user of what they can do/inform the user
 ![United Nations Homepage for Sustainable Cities](un-site.png)
 
 ### Background Information
-The United Nations put out a list of sustainable goals to better our planet as humanity (both culturally and enviormentally.) While the site is the originator of these ideas does not mean the site is without flaw. 
+The United Nations put out a list of sustainable goals to better our planet/humanity (both culturally and enviormentally.) While the site is the originator of these ideas does not mean the site is without flaw. 
