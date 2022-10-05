@@ -1,6 +1,6 @@
 # DH110-22F
 
-## Welcome to my first assignment,heuristic evaluation. 
+## Welcome to my first assignment, heuristic evaluation. 
 
 ### Summary
 
@@ -20,3 +20,5 @@ The United Nations put out a list of sustainable goals to better our planet/huma
 
 ![Heuristic Evaluation](hr2.png)
 
+### Overall evaluation
+Generally this is an _okay_ informational site. It has some missing and poorly design elements hiding about, but it is expected for a nonprofit orginzation.
