@@ -22,3 +22,10 @@ The United Nations put out a list of sustainable goals to better our planet/huma
 
 ### Overall evaluation
 Generally this is an _okay_ informational site. It has some missing and poor design elements hiding about, but it is expected for a nonprofit orginzation.
+
+## Evaluation #2
+
+![Heuristic Evaluation](thezebra.png)
+
+### Background Information
+This website is also primarily an imformational one, but it focuses on _what_ a sustainable city is rather than suggest ways to create a more sustainable city yourself.
