@@ -38,5 +38,5 @@ This website is also primarily an imformational one, but it focuses on _what_ a 
 
 ### Overall evaluation
 
-The site is better than above, but clearly has narrower focus. It isn't a site dedicated to sustainable cities, but had too mcuh good sustaible city content to not try to critique the design via heuristic evaluation.
+The site is better than above, but clearly has narrower focus. It isn't a site dedicated to sustainable cities, but had too much good sustaible city content to not try to critique the design via heuristic evaluation.
 
