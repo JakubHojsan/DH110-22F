@@ -29,3 +29,8 @@ Generally this is an _okay_ informational site. It has some missing and poor des
 
 ### Background Information
 This website is also primarily an imformational one, but it focuses on _what_ a sustainable city is rather than suggest ways to create a more sustainable city yourself.
+
+[The Zebra for reference.](https://www.thezebra.com/resources/home/what-is-a-sustainable-city/#infographic)
+
+
+
