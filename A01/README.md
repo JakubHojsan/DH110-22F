@@ -21,4 +21,4 @@ The United Nations put out a list of sustainable goals to better our planet/huma
 ![Heuristic Evaluation](hr2.png)
 
 ### Overall evaluation
-Generally this is an _okay_ informational site. It has some missing and poorly design elements hiding about, but it is expected for a nonprofit orginzation.
+Generally this is an _okay_ informational site. It has some missing and poor design elements hiding about, but it is expected for a nonprofit orginzation.
