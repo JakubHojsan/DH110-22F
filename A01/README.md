@@ -14,7 +14,7 @@ Currently, sites that try to inform the user of what they can do/inform the user
 ### Background Information
 The United Nations put out a list of sustainable goals to better our planet/humanity (both culturally and enviormentally.) While the site is the originator of these ideas does not mean the site is without flaw. 
 
-![Heuristic Evaluation](Heuristic Evaluaton 1-5.png)
+![Heuristic Evaluation](hr1.png)
 
-![Heuristic Evaluation](Heuristic Evaluaton 6-10.png)
+![Heuristic Evaluation](hr2.png)
 
