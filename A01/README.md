@@ -1,6 +1,6 @@
 # DH110-22F
 
-## Welcome to my first assignment, heuristic evaluation. 
+## Sustainable cities and how we can contribute.
 
 ### Summary
 
