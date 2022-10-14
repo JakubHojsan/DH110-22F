@@ -12,10 +12,10 @@
 >The basic need involved with the activity is the goal to have LA citizens have healthier and less stressful lives.
 
 **What are the traditional/current solution(s) to satisfy the needs?**
->Currently, the "traditional" solution are simply the informed. Bus routes can be confusing to use/not efficient, and the uneducated is the biggest hurdle towards a more sustainable LA.
+>Currently, the "traditional" solution are simply the informed. Bus routes can be confusing to use/not efficient, and the uneducated is the biggest hurdle towards a more sustainable LA. Other solutions exist like CityMapper, which allows you to sustainabley route in cities, and apps focused on the side of sustainablity like alternative power/solar. 
 
 **What are the limitation(s) that possibly would be improved?**
->idk
+>Some sites exist as well as apps that are components of more sustainable living (CityMapper is my favorite,) which highlights different ways to get to your destination via bike/bus/rideshare. These sites are fragmented into various realms of sustainablity, but I seek to design a platform that connects all these fragments to be the number one destination for sustainablity. 
 
 ### Step 2: Identify target users
 
