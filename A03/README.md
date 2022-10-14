@@ -22,10 +22,10 @@
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
 >idk
 
-**Where would the users do that activity?**
+**In which context (where, why, under which conditions) would the users do that activity? **
 >idk
 
-**What would the users do to complete that activity?**
+**What would the users usually do in order to complete that activity? **
 >idk
 
 ### Step 3: Pick observation method(s)
