@@ -48,4 +48,4 @@ The participatroy observation research was with an individual that is under the 
 
 ## Step 4: Observation/Interview Guide
 
-* The link to the interview script is [here]()
+* The link to the interview script is [here](https://docs.google.com/document/d/1dNRMfTQ4Srvn68zKgnNaFnTWOJRM2RKJIeNZUZnHOLU/edit?usp=sharing)
