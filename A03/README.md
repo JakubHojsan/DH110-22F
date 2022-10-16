@@ -11,7 +11,7 @@
 >The main activity that the project would support for users is a version of a leasing software for sustainble vehicles, anything from electric scooters/motorcycles or even cars depending on the outcome of user observation.  
 
 **What is the basic need/goal involved for that activity?**
->The basic need involved with the activity is the goal to have LA citizens have healthier and less stressful lives.
+>The basic need involved with the activity is the goal to have LA citizens have healthier, less stressful, and sustainable lives in a sustainable LA.
 
 **What are the traditional/current solution(s) to satisfy the needs?**
 >Currently, the "traditional" solution are simply the informed. Bus routes can be confusing to use/not efficient, and the uneducated is the biggest hurdle towards a more sustainable LA. Other solutions exist like CityMapper, which allows you to sustainabley route in cities, and apps focused on the side of sustainablity like alternative power/solar. 
