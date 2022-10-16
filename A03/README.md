@@ -29,10 +29,10 @@ https://www.bestplaces.net/transportation/city/california/los_angeles
 >The issue with this is even with the creation of carpool lanes, LA commuter preference is to still drive alone. A solution that doesn't work must be iterated on, as the average LA resident is 35 years old, and need a simple solution to cut down on their commute, and be more sustainable. Less than 10% of LA residents commute on public transport, which is an issue. These numbers can be expanded if we learn more about what LA residents want, given their preferences above.
 
 **In which context (where, why, under which conditions) would the users do that activity?**
->idk
+>The utilization of an application to lease sustainable/subidized vehicles would at first glance be a one time use. This is obstenisbly incorrect, the platform would try to provide as much information to the user as possible in terms of service for their vehicles, commute information, and sustainability information to entice the user to use the platform (appeal to logic and emotion.)
 
 **What would the users usually do in order to complete that activity?**
->idk
+>Download the application, and take a quick quiz to see what lease would make most sense for them in terms of their commute. If it isn't a lease option but rather public transport, we would give them routes that they could take to work to be more sustainable/show statistics about the enviorment in terms of how much they have done for it.
 
 ### Step 3: Pick observation method(s)
 
