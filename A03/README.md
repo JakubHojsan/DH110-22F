@@ -8,6 +8,8 @@
 **What is the main activity your project would support for the users?**
 >This project will help users live more sustainable lives, with a focus on alternative transport. Hopefully we will encourage more LA drivers to limit their use of gas operated cars to reduce traffic, as well as help them find resources to better their city by making it more sustainable.
 
+>The main activity that the project would support for users is a version of a leasing software for sustainble vehicles, anything from electric scooters/motorcycles or even cars depending on the outcome of user observation.  
+
 **What is the basic need/goal involved for that activity?**
 >The basic need involved with the activity is the goal to have LA citizens have healthier and less stressful lives.
 
