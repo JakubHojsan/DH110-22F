@@ -14,15 +14,19 @@
 >The basic need involved with the activity is the goal to have LA citizens have healthier, less stressful, and sustainable lives in a sustainable LA.
 
 **What are the traditional/current solution(s) to satisfy the needs?**
->Currently, the "traditional" solution are simply the informed. Bus routes can be confusing to use/not efficient, and the uneducated is the biggest hurdle towards a more sustainable LA. Other solutions exist like CityMapper, which allows you to sustainabley route in cities, and apps focused on the side of sustainablity like alternative power/solar. 
+>Currently, traditional solutions include car rental apps like Turo, or rideshare platforms like Uber. Uber allows bike rental, as well as carpool and private cab. Other solutions exist like CityMapper, which allows you to sustainably route in certain cities using tram, bus, and even trains.
 
 **What are the limitation(s) that possibly would be improved?**
->Some sites exist as well as apps that are components of more sustainable living (CityMapper is my favorite,) which highlights different ways to get to your destination via bike/bus/rideshare. These sites are fragmented into various realms of sustainablity, but I seek to design a platform that connects all these fragments to be the number one destination for sustainablity. 
+>Some sites exist as well as apps that are components of more sustainable living (CityMapper is my favorite,) which highlights different ways to get to your destination via bike/bus/rideshare. The limitation is infrastructure, cities like LA were _built_ to be driven, so we must work around these limitations by providing solutions that use roads that are already built.
 
 ### Step 2: Identify target users
 
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
->idk
+>The target user of our platform is the average LA commuter. Due to rising housing costs, commuters are pushed out of DLTA as well as other urbanized enviorments in LA and are forced to find routes close to an half and hour to work. _The average one-way commute in Los Angeles takes 30.9 minutes. That's longer than the US average of 26.4 minutes._ Sadly only 9 percent of people carpool, while nearly 70 percent drive to work alone. 
+
+https://www.bestplaces.net/transportation/city/california/los_angeles
+
+>The issue with this is even with the creation of carpool lanes, LA commuter preference is to still drive alone. A solution that doesn't work must be iterated on, as the average LA resident is 35 years old, and need a simple solution to cut down on their commute, and be more sustainable. Less than 10% of LA residents commute on public transport, which is an issue. These numbers can be expanded if we learn more about what LA residents want, given their preferences above.
 
 **In which context (where, why, under which conditions) would the users do that activity?**
 >idk
