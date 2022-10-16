@@ -45,3 +45,7 @@ https://www.bestplaces.net/transportation/city/california/los_angeles
 > The CityMapper application is extremely useful in unknown cities, and was suprised no one was using it. It is extremley popular in the Bay Area and Stanford's campus, but historically Stanford is incredibley sustainable. Bikes everywhere, and trains and buses allow you to bring your bike on -- which lets you use the CityMapper app to bike to your stop and take your bike off and on to get to your next destination.
 
 > The participatroy observation research was with an individual that is under the age of the average LA resident commuter, but still has a commute in the LA area. The reasoning behind this is because a 35 year old may be less inclined to use an application to help them commute and it might be easier to learn from a millenial. The next section contains all materials used.
+
+## Step 4: Observation/Interview Guide
+
+* The link to the interview script is [here]()
