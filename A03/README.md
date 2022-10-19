@@ -71,4 +71,4 @@ The interview gave me lots of insight into what a user would be looking for in a
 
 What can we do to move gas traffic to EV or other types of sustainable traffic? Bird seemed to make shorter commutes easier, but what about longer ones like Aral's to Culver City or Beverly Hills? Are buses and carpooling the only option, or are there other possiblities?
 
-Next time I would have more detailed focus questions, since I wasn't anticiplating Aral to have such deep knowledge of the space already to drag out the contextual inquiry. Since Aral also didn't have a traditional commuting experience, maybe having additional disqualifying questions to really reach the right personas as we will discuss in the next assigment.
+Next time I would have more detailed focus questions, since I wasn't anticiplating Aral to have such deep knowledge of the space already to drag out the contextual inquiry. Since Aral also didn't have a traditional commuting experience, maybe having additional disqualifying questions to really reach the right personas as we will discuss in the next assignment.
