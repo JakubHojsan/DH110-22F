@@ -64,3 +64,11 @@ The participatroy observation research was with an individual that is under the 
 
 
 > On alternative transport: Not my many friends don't really use bikes, but there is a big bike culture in LA. So I would say biking is a great option. 
+
+## Conclusion
+
+The interview gave me lots of insight into what a user would be looking for in a more sustainable application for transport. The contextual inquiry assignment was easy since it was what the user was familiar with and didn't pigeonhole them into an activity they didn't know how to do. The biggest take away was that applications like Bird actually are allowing for subsidized rides for students and free rides for athletes at UCLA. This means that a portion of walkable traffic was transfered to scooter traffic, which isn't a terrible thing. The public transit option is also something I have known about on Apple Maps, but the new iPhones have extremely robust bus routing now in comparison to before. These insights could potetially lead me to a solution in the near future to assist in sustainable cities. 
+
+What can we do to move gas traffic to EV or other types of sustainable traffic? Bird seemed to make shorter commutes easier, but what about longer ones like Aral's to Culver City or Beverly Hills? Are buses and carpooling the only option, or are there other possiblities?
+
+Next time I would have more detailed focus questions, since I wasn't anticiplating Aral to have such deep knowledge of the space already to drag out the contextual inquiry. Since Aral also didn't have a traditional commuting experience, maybe having additional disqualifying questions to really reach the right personas as we will discuss in the next assigment.
