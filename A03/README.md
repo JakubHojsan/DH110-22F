@@ -49,3 +49,18 @@ The participatroy observation research was with an individual that is under the 
 ## Step 4: Observation/Interview Guide
 
 * The link to the interview script is [here](https://docs.google.com/document/d/1dNRMfTQ4Srvn68zKgnNaFnTWOJRM2RKJIeNZUZnHOLU/edit?usp=sharing)
+
+* The link to the audio plus transcript is [here](https://drive.google.com/drive/folders/1WDGiJLoylm6Ky-nhvs65lyxGTV2z3zgy?usp=sharing)
+
+### Some quotes I found insightful
+
+> A lot of the time I find trouble with Apple Maps when I am navigating. Sometimes it's a little bit slow, just like reorienting my screen to show  where I'm heading is like the forward direction. Problems were fixed with new hardware.
+
+
+> On a feature he really liked on Apple Maps: And there's just like city guides, you know, because I've been to LA. I've been to San Diego. I've been in Las Vegas been in San Francisco, so it's nice that.
+
+
+> So a lot of my friends, when they go to class they use Birds -- they just created a new access program for some like California students.
+
+
+> On alternative transport: Not my many friends don't really use bikes, but there is a big bike culture in LA. So I would say biking is a great option. 
