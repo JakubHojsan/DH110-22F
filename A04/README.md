@@ -3,6 +3,6 @@
 ## Personas and Empathy Maps
 ### Persona: Jack Reacher, Digital Nomad
 
-![Persona](jr1.png)
+![Persona](1jr.png)
 
 
