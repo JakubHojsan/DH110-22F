@@ -1,5 +1,8 @@
 # Personas + Usage Scenarios
 
+## Introduction
+The purpose of UX storytelling is to step into your users shoes and get an idea of how they would see your product. Creating interesting and realistic personas allows you to share internally the idea of your target user. Biases introduced during interviews are pruned as much as you can during this process, allowing for a more concrete vision of a target user.
+
 ## Personas and Empathy Maps
 ### Persona: Jack Reacher, Digital Nomad
 ![Jack Reacher, Digital Nomad](1jr.png)
