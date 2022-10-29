@@ -1,5 +1,7 @@
 # Assignment 5: Low Fidelity Mockup
 
+### Jakub Hojsan, DH110 F22
+
 ## Brief Introduction
 
 ### Overview
