@@ -21,6 +21,9 @@ These basic features were decided by taking a look at similar commuter applicati
 
 ![Wirframes](Display2.png)
 
+![Flow](lff.png)
+
+
 
 ## List of features/tasks
 
