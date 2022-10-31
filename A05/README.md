@@ -17,6 +17,11 @@ The purpose of this low fidelity prototype is to ensure that the features propos
 
 These basic features were decided by taking a look at similar commuter applications, as well as user feedback from assignment 3/4 one step up in this repository. 
 
+### A brief preview of the wireframes.
+
+![Wirframes](Display.png)
+
+
 ## List of features/tasks
 
 ## States/testing
