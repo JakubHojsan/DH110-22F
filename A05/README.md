@@ -19,7 +19,7 @@ These basic features were decided by taking a look at similar commuter applicati
 
 ### A brief preview of the wireframes.
 
-![Wirframes](Display.png)
+![Wirframes](Display2.png)
 
 
 ## List of features/tasks
