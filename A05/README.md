@@ -34,5 +34,5 @@ I noticed a few things when going through the UI/UX with my participant.
 * She thought the route me button allowed her to route her using the top search bar, when it was in fact a different element. This is something I didn't forsee.
 * The back button at first may have indicated that she go back multiple steps, which is bad UI/UX practice.
 
-## Flow Diagram as drawn by the participant.
+## Flow Diagram as drawn by the participant
 
