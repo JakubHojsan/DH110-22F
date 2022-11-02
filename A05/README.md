@@ -21,7 +21,7 @@ These basic features were decided by taking a look at similar commuter applicati
 
 ![Wirframes](Display2.png)
 
-![Flow](lff.png)
+![Flow](lff2.png)
 
 ## States/testing
 
@@ -35,4 +35,6 @@ I noticed a few things when going through the UI/UX with my participant.
 * The back button at first may have indicated that she go back multiple steps, which is bad UI/UX practice.
 
 ## Flow Diagram as drawn by the participant
+
+![Lizzy Flow](lizzyFLOW.png)
 
