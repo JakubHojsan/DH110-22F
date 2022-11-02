@@ -40,7 +40,7 @@ I noticed a few things when going through the UI/UX with my participant.
 
 ## Adjustments to UI/UX given participant struggles
 
-![UI Update](displayNew.png)
+![UI Update](DisplayNew.png)
 
 
 ## Reflection
