@@ -23,11 +23,16 @@ These basic features were decided by taking a look at similar commuter applicati
 
 ![Flow](lff.png)
 
-
-
-## List of features/tasks
-
 ## States/testing
 
-## Changes
+The link to the testing video can be found [here.](https://drive.google.com/file/d/1ynzOnPgCBs_7u5iXyNS6m_GVWwIsUHxL/view?usp=sharing)
+
+## Participant Struggles
+
+I noticed a few things when going through the UI/UX with my participant.
+* The top search bar is the first thing she navigated to when I asked her to route herself to a location. I guess that the higher up the element is the higher precedent it has. 
+* She thought the route me button allowed her to route her using the top search bar, when it was in fact a different element. This is something I didn't forsee.
+* The back button at first may have indicated that she go back multiple steps, which is bad UI/UX practice.
+
+## Flow Diagram as drawn by the participant.
 
