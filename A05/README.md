@@ -45,3 +45,11 @@ I noticed a few things when going through the UI/UX with my participant.
 
 ## Reflection
 
+The wireflow testing process worked a lot different than I thought. I was anticipating my participant clicking exactly where I thought they needed to, and accidentally started guiding them in the direction I wanted. Instead of continuing this, I tried to just suggest similar actions to steer them in the right direction but took note of things they found and adjusted them in my mental model and added a frame due to their feedback. Allowing the participant to draw arrows without proper instruction was also a mistake, since the arrows came with intention but there were some strays.
+
+I didn't want to ruin the participants intention so I let them stay.
+
+The primary fix I found was adding a screen that allowed the user to search, which was my participants first idea when routing to a place, not the route me button.
+
+I kept the route me button there for redundancy, and it still goes to the same screen otherwise!
+
