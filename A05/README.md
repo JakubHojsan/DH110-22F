@@ -38,5 +38,10 @@ I noticed a few things when going through the UI/UX with my participant.
 
 ![Lizzy Flow](lizzyFLOW.png)
 
-## Adjustments to flow given participant struggles
+## Adjustments to UI/UX given participant struggles
+
+![UI Update](displayNew.png)
+
+
+## Reflection
 
