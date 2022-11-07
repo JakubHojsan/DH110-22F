@@ -3,6 +3,14 @@
 
 ## Project Summary
 
+The purpose of this assignment is to create a design library for future designs that adhere to good design standards, and follow theory such as Gestalt. Once we create a design library for our product creating a high fidelity prototype will come easier -- but also this serves as a tool to validtiate our design solutions one last time before the high fidelity concept.
+
+### Process
+
+The process for this was simple, since my low fidelity prototype was already drafted in Figma, I skipped the step of digitization as I already had a draft. After this, I followed key steps in Gestalt theory of grouping to reform elements and create proper spacing and gutters.
+
+After this, I created variations in typography, color, and shape to refine what my design standards could potentially look like.
+
 ## Links
 
 ## Gestalt Theory
