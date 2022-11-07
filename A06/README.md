@@ -3,6 +3,10 @@
 
 ## Project Summary
 
+Zero is a zero emissions electric motorcycle platform which allows users to rent short/long term motorcycles for their everyday needs. It allows you to pay per mile, day, or month. It aims to increase sustainable living within cities as highlighted as a UN Sustainable Development goal, to make all of us more conservative in our carbon footprint.
+
+### Purpose
+
 The purpose of this assignment is to create a design library for future designs that adhere to good design standards, and follow theory such as Gestalt. Once we create a design library for our product creating a high fidelity prototype will come easier -- but also this serves as a tool to validtiate our design solutions one last time before the high fidelity concept.
 
 ### Process
@@ -36,12 +40,16 @@ I wanted to go for a fluid feel, so I opted to try two different rounding pixel 
 
 ![Shapes](shapes2.png)
 
-### Color Variation and Accessibility
+### Color Variation and Accessibility (Accents only, look at design document for light versus dark mode one we select accents.)
+
+While the colors of the site were generically white and black, it is good to test variations of accent colors to get some more color pop in the design. I chose a few key catching colors to test and checked accessibility/visiblity of the font colors on our primary colors.
 
 ![Color](color.png)
 
 <p align="center">
   
+### Accessibility  
+
 ![Purple](purple.png)
 
 ![Green](green.png)
@@ -51,7 +59,9 @@ I wanted to go for a fluid feel, so I opted to try two different rounding pixel 
 </p>
 
 
-## Descriptions of decison making process (style guide)
+## Selection of Style Guide
+
+Based on the impression tests offically recorded as well as feedback from users that didn't get recorded, I landed on a combination of elements that best repersents Zero as a platform, as well as allowing it to be must accessible. 
 
 ## Impression test
 
