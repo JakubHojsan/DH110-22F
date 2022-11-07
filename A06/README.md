@@ -5,6 +5,8 @@
 
 Zero is a zero emissions electric motorcycle platform which allows users to rent short/long term motorcycles for their everyday needs. It allows you to pay per mile, day, or month. It aims to increase sustainable living within cities as highlighted as a UN Sustainable Development goal, to make all of us more conservative in our carbon footprint.
 
+Wireframe and flow can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=0%3A1)!
+
 ### Purpose
 
 The purpose of this assignment is to create a design library for future designs that adhere to good design standards, and follow theory such as Gestalt. Once we create a design library for our product creating a high fidelity prototype will come easier -- but also this serves as a tool to validtiate our design solutions one last time before the high fidelity concept.
@@ -14,8 +16,6 @@ The purpose of this assignment is to create a design library for future designs 
 The process for this was simple, since my low fidelity prototype was already drafted in Figma, I skipped the step of digitization as I already had a draft. After this, I followed key steps in Gestalt theory of grouping to reform elements and create proper spacing and gutters.
 
 After this, I created variations in typography, color, and shape to refine what my design standards could potentially look like.
-
-## Links
 
 ## Gestalt Theory
 
@@ -63,8 +63,11 @@ While the colors of the site were generically white and black, it is good to tes
 
 Based on the impression tests offically recorded as well as feedback from users that didn't get recorded, I landed on a combination of elements that best repersents Zero as a platform, as well as allowing it to be must accessible. 
 
+The style-sheet can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=31%3A1008) as well as below.
+
+![Style](Style.png)
+
+
+
 ## Impression test
 
-## Accessibility test
-
-### Link to the interface design page that shows your test screens and design system information
