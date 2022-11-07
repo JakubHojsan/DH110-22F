@@ -32,6 +32,17 @@ I wanted to go for a fluid feel, so I opted to try two different rounding pixel 
 
 ![Color](color.png)
 
+<p align="center">
+  
+![Purple](purple.png)
+
+![Green](green.png)
+
+![Red](red.png)
+  
+</p>
+
+
 ## Descriptions of decison making process (style guide)
 
 ## Impression test
