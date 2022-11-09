@@ -83,6 +83,10 @@ Some things that I took away from the impressions and changed based on feedback 
 
 ## Edits to the style sheet based on feedback
 
+![StyleEdit](StyleEdit.png)
+
+Thank you so much for reading!
+
 
 
 
