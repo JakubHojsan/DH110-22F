@@ -5,7 +5,7 @@
 
 Zero is a zero emissions electric motorcycle platform which allows users to rent short/long term motorcycles for their everyday needs. It allows you to pay per mile, day, or month. It aims to increase sustainable living within cities as highlighted as a UN Sustainable Development goal, to make all of us more conservative in our carbon footprint.
 
-Wireframe and flow can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=0%3A1)!
+Wireframe and flow can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=0%3A1) and [here](https://www.figma.com/file/HrE8eGt5Nd7j5qLZnJrUhr/Low-Fidelity-Flow?node-id=0%3A1)!
 
 ### Purpose
 
