@@ -71,3 +71,19 @@ The style-sheet can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0
 
 ## Impression test
 
+I did several impression tests, but only one of them was recorded for time saving purposes. The first few allowed me to select the compnents for the style guide, while the final one that you will see was to validiate the final style sheet with the composed elements and digitized wireframe. 
+
+The link to the impression test can be found [here](https://ucla.zoom.us/rec/share/Nkf8Uw1o__5PYfkFUp781fMqlBF3HG4V2ibIABLjk0TjgCIwm_M_ivAJ9NMrhxPc.-MjdGxSsszRgwnCg).
+
+Some things that I took away from the impressions and changed based on feedback in the final style sheet:
+
+* The color contrast in dark mode is poor on the search bar.
+* Some of the splash photos look out of place.
+* Even with context the design looks intentional, but text could be more descriptive in aggregate.
+
+## Edits to the style sheet based on feedback
+
+
+
+
+
