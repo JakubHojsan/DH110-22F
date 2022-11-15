@@ -15,4 +15,5 @@ After the previous assignments, I had narrowed down usecases to these tasks:
 - Being able to search for a location and route to it
 - Changing your payment preference (miles versus hours)
 - Select your prefered motorcycle
+- View profile
 
