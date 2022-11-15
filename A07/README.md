@@ -17,3 +17,18 @@ After the previous assignments, I had narrowed down usecases to these tasks:
 - Select your prefered motorcycle
 - View profile
 
+## Wireflow
+
+A link to this wireflow can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=84%3A1701&t=CrtslYbsi4rHXwuF-1)
+
+![Wireflow](wireflow.png)
+
+## Prototype
+
+The prototype can be found [here](https://www.figma.com/proto/E0lVkbu4lQ9bkhfn0V9jZc/Zero?page-id=84%3A1701&node-id=84%3A1709&viewport=464%2C411%2C0.27&scaling=scale-down&starting-point-node-id=84%3A1704)!
+
+The source file in Figma can be found [here](https://www.figma.com/file/E0lVkbu4lQ9bkhfn0V9jZc/Zero?node-id=42%3A1823&t=CrtslYbsi4rHXwuF-1)
+
+## Testing the prototype
+
+This prototype will be tested on November 16th in class. Stay updated.
