@@ -40,3 +40,6 @@ Alongside this, it was said that it was hard to return to the route selected if 
 And finally, both users said the map was unclear due to the UI being missing on the navigation sample.
 
 I have updated the design to reflect this amazing feedback, and this is what we will be using going forward (the live links will update these changes.)
+
+![New Update](new.png)
+![Nav](navigation.png)
